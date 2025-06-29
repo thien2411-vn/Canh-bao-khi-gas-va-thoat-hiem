@@ -45,7 +45,7 @@ Làm theo sơ đồ nguyên lý & PCB trong file: `Sodonguyenly_PCB.pdf`
 
    ![image](https://github.com/user-attachments/assets/785aa85a-8301-433e-b932-60d86c44c858)
 
-   ![image](https://github.com/user-attachments/assets/99bba294-bf20-4027-9344-f87c8109bae3)
+   <img src="https://github.com/user-attachments/assets/99bba294-bf20-4027-9344-f87c8109bae3" alt="Ảnh minh họa" width="300">
 
 7. **Devices**: 
    - `New Device` → Chọn Template đã tạo → `Create`
@@ -54,7 +54,7 @@ Làm theo sơ đồ nguyên lý & PCB trong file: `Sodonguyenly_PCB.pdf`
 
   ![image](https://github.com/user-attachments/assets/cfccc6f2-abfb-4194-9ec9-17110b6c6728)
   
-  ![image](https://github.com/user-attachments/assets/44797f6e-52cb-432e-92db-96cf3bb03130)
+  <img src="https://github.com/user-attachments/assets/44797f6e-52cb-432e-92db-96cf3bb03130" alt="image" width="300">
 
 ### ✅ Bước 5: Tận hưởng thành quả!
 - Khi phát hiện khí Gas hoặc cháy, hệ thống sẽ cảnh báo tự động và kích hoạt thoát hiểm.
