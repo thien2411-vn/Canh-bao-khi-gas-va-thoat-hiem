@@ -1,5 +1,5 @@
 // Blynk cấu hình
-#define BLYNK_TEMPLATE_ID "TMPL6O0Hlfghu"
+#define BLYNK_TEMPLATE_ID "TMPL6O0Hlfghu" //thay đổi địa chỉ Blynk IoT
 #define BLYNK_TEMPLATE_NAME "Cảnh báo khí gas và thoát hiểm"
 #define BLYNK_AUTH_TOKEN "EviL06cjkRD4aCNOlwPNIbxlUdJtU_f4"
 
@@ -10,8 +10,8 @@
 #include <math.h>
 #include <ESP32Servo.h>
 
-char ssid[] = "92";
-char pass[] = "1234567891011";
+char ssid[] = "92"; //thay đổi địa chỉ wifi
+char pass[] = "1234567891011"; // thay đổi mật khẩu wifi
 
 // Chân kết nối phần cứng
 #define MQ2_PIN     34
