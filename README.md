@@ -1,4 +1,4 @@
-# 🌟 Chào mừng bạn đến với thiên đường ESP 🌟
+## 🌟 Chào mừng bạn đến với thiên đường ESP 🌟 ##
 
 Đây là một dự án nhỏ sử dụng **ESP32** nhằm **phát hiện rò rỉ khí Gas hoặc cháy nổ** và **kích hoạt hệ thống cảnh báo & thoát hiểm**, đồng thời **gửi cảnh báo qua ứng dụng Blynk IoT**.
 
@@ -55,6 +55,10 @@ Làm theo sơ đồ nguyên lý & PCB trong file: `Sodonguyenly_PCB.pdf`
   ![image](https://github.com/user-attachments/assets/cfccc6f2-abfb-4194-9ec9-17110b6c6728)
   
   <img src="https://github.com/user-attachments/assets/44797f6e-52cb-432e-92db-96cf3bb03130" alt="image" width="300">
+  
+   - Khi có rò rỉ khí Gas hoặc cháy nổ sẽ cảnh báo qua điện thoại
+
+  <image src="https://github.com/user-attachments/assets/eef6d2bb-870f-4e16-bcbd-25c93d5e9a03" alt="image" width="300">
 
 ### ✅ Bước 5: Tận hưởng thành quả!
 - Khi phát hiện khí Gas hoặc cháy, hệ thống sẽ cảnh báo tự động và kích hoạt thoát hiểm.
@@ -70,6 +74,5 @@ Làm theo sơ đồ nguyên lý & PCB trong file: `Sodonguyenly_PCB.pdf`
 
 ## 🎥 Video Demo
 
-Nếu bạn có ý tưởng cải tiến hoặc phát hiện lỗi, hãy tạo issue hoặc pull request trên GitHub!
+[![image](https://github.com/user-attachments/assets/7a238f42-877e-4d8e-9195-4b921c8f61fc)](https://www.youtube.com/watch?v=uLHQzOnJywY)
 
----
